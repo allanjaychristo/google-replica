@@ -1,0 +1,61 @@
+
+.nav-item{
+    background-color: rgb(212, 212, 212);
+}
+
+.nav-link{
+    color: black;
+}
+
+.nav-link:hover{
+    color: black;
+}
+
+.nav-item:hover{
+    background-color: rgb(185, 185, 185);
+}
+
+.nav-mais{
+    background-color: rgb(212, 212, 212);
+    border-radius: 100%;
+}
+
+.nav-setinha{
+    background-color: rgb(255, 255, 255);
+    border-radius: 200%;
+}
+
+.nav-mais:hover{
+    background-color: rgb(185, 185, 185);
+}
+
+.nav-setinha:hover{
+    background-color: rgb(154, 188, 231);
+}
+
+.btn-outline-primary{
+    border-color: rgb(185, 185, 185);
+    color: black;
+    border-radius: 0%;
+}
+
+.btn-outline-primary:hover{
+    background-color: rgb(185, 185, 185);
+    border-color: rgb(185, 185, 185);
+    color: black;
+}
+
+.nav-tabs{
+    background-color:rgb(212, 212, 212);
+}
+
+/*aqui coloquei esse espaço pra separar pq nao sei fazer de outro jeito*/
+.nav-link-nada{
+    color: rgb(212, 212, 212);
+}
+
+.titulo{
+    text-align: center;
+    font-family: 'Protect Sans', sans-serif;
+    font-weight: bold;
+}
